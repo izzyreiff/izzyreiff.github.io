@@ -1,0 +1,63 @@
+body {
+  background: #FFEACF;
+  position: relative;
+}
+
+header {
+  padding-bottom: 75px;
+}
+
+main{
+  padding-bottom: 5%;
+}
+
+.bg{
+  background-color: #e18eff!important;
+}
+
+.image {
+  width: 25%;
+  height:25%;
+  border:0;
+  border-radius: 100%;
+  display:block;
+}
+
+a:link, a:visited {
+  color: #E18EFF;
+}
+
+a:hover, a:active {
+  color: #BC00FF;
+}
+
+.fab {
+  color: black;
+}
+
+.fab:hover {
+  color: #E18EFF;
+}
+
+.btn, .btn:link, .btn:visited {
+  background-color: #E18EFF;
+  border-color: #E18EFF;
+}
+
+.btn:hover, .btn:active {
+  background-color: #BC00FF;
+  border-color: #BC00FF;
+}
+
+.card-img-top{
+  /* width:auto; */
+}
+
+.footer {
+  background-color: #FFE4EF;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
